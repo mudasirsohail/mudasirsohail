@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @mudasirsohail
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning Typescript and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me via my email: "mudasirsohailsoomro@gmail.com"
+- 👋 Hello, I'm Mudasir Sohail
+- 👀 interested in coding
+- 🌱 currently learning Generative AI, Web3 and Metaverse
+- 📫 You an reach me via my email: mudasirsohailsoomro@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 
