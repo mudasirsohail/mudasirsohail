@@ -7,9 +7,9 @@ Currently, I'm focused on learning **Python** and am actively involved in the **
 ---
 
 ### 🚀 What I'm Learning/Working On:
+* **Agentic AI**: Delving into the development of autonomous and intelligent systems.
 * **Python**: Diving into the versatile world of Python programming.
 * **Generative AI, Web3, & Metaverse**: Exploring cutting-edge technologies and their applications.
-* **TypeScript**: Building robust and scalable applications with strong typing.
 
 ### 💻 My Top Projects & Repositories:
 * **[Nike-Shoes-Fully-Functional](https://github.com/mudasirsohail/Nike-Shoes-Fully-Functional)**: A fully functional Nike shoes e-commerce prototype built with Next.js.
