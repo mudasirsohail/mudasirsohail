@@ -12,10 +12,11 @@ Currently, I'm focused on learning **Python** and am actively involved in the **
 * **Generative AI, Web3, & Metaverse**: Exploring cutting-edge technologies and their applications.
 
 ### 💻 My Top Projects & Repositories:
-* **[Nike-Shoes-Fully-Functional](https://github.com/mudasirsohail/Nike-Shoes-Fully-Functional)**: A fully functional Nike shoes e-commerce prototype built with Next.js.
-* **[45-Assignments-of-Typescript](https://github.com/mudasirsohail/45-Assignments-of-Typescript)**: A comprehensive collection of TypeScript assignments, reflecting my learning journey.
-* **[ATM-Machine-Project](https://github.com/mudasirsohail/ATM-Machine-Project)**: An interactive ATM machine simulation project developed using TypeScript.
-* **[My-Portfolio](https://github.com/mudasirsohail/MyyPortfolio)**: My Personal Portfolio using Next.js.
+* **[Nike Shoes Fully Functional](https://nike-shoes-fully-functional.vercel.app/)**: A fully functional Nike shoes e-commerce website built with Next.js.
+* **[45 Assignments of Typescript](https://github.com/mudasirsohail/45-Assignments-of-Typescript)**: A comprehensive collection of TypeScript assignments, reflecting my learning journey.
+* **[Ramadan Coding Nights Challange ](https://github.com/mudasirsohail/Ramadan-Coding-Nights-Challange-Python-)**: A Python coding challenge series designed to foster skill development and community engagement during the nights of Ramadan.
+* **[ATM Machine Project](https://github.com/mudasirsohail/ATM-Machine-Project)**: An interactive ATM machine simulation project developed using TypeScript.
+* **[My Portfolio](https://mudasirsohail-portfolio.vercel.app/)**: My Personal Portfolio using Next.js.
 * **[Data Encryption System](https://github.com/mudasirsohail/Data-Encryption-System)**: This repository contains a Python-based data encryption system, likely for securing user information.
 * **[QA Chatbot](https://github.com/mudasirsohail/QA-chatbot-with-authentication)**: A QA Chatbot is an AI-powered system designed to answer user questions by retrieving or generating information from a knowledge base.
 ---
