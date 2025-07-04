@@ -12,20 +12,27 @@ Currently, I'm focused on learning **Python** and am actively involved in the **
 * **TypeScript**: Building robust and scalable applications with strong typing.
 
 ### 💻 My Top Projects & Repositories:
-* **[Nike-Shoes-Fully-Functional](https://github.com/mudasirsohail/Nike-Shoes-Fully-Functional)**: A fully functional Nike shoes e-commerce prototype built with TypeScript.
+* **[Nike-Shoes-Fully-Functional](https://github.com/mudasirsohail/Nike-Shoes-Fully-Functional)**: A fully functional Nike shoes e-commerce prototype built with Next.js.
 * **[45-Assignments-of-Typescript](https://github.com/mudasirsohail/45-Assignments-of-Typescript)**: A comprehensive collection of TypeScript assignments, reflecting my learning journey.
 * **[ATM-Machine-Project](https://github.com/mudasirsohail/ATM-Machine-Project)**: An interactive ATM machine simulation project developed using TypeScript.
-* **[Calculator-using-inquirer-TS](https://github.com/mudasirsohail/Calculator-using-inquirer-TS)**: A command-line calculator built with TypeScript and `inquirer`.
-* **[Typescript-Number-Guessing-Game-](https://github.com/mudasirsohail/Typescript-Number-Guessing-Game-)**: A classic number guessing game implemented in TypeScript.
 * **[My-Portfolio](https://github.com/mudasirsohail/MyyPortfolio)**: My Personal Portfolio using Next.js.
-
+* **[Data Encryption System](https://github.com/mudasirsohail/Data-Encryption-System)**: This repository contains a Python-based data encryption system, likely for securing user information.
+* **[QA Chatbot](https://github.com/mudasirsohail/QA-chatbot-with-authentication)**: A QA Chatbot is an AI-powered system designed to answer user questions by retrieving or generating information from a knowledge base.
 ---
 
 ### 🌱 My Skills:
 * **Frontend Development**
-* **TypeScript**
 * **HTML & CSS**
+* **TypeScript**
 * **JavaScript**
+* **Next.js**
+* **React.js**
+* **Tailwind CSS**
+* **Responsive Design**
+* **Git & GitHub**
+* **API Integration**
+* **Microsoft Office**
+* **English Language**
 
 ---
 
